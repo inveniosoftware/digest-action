@@ -1,3 +1,7 @@
+/*
+ * SPDX-FileCopyrightText: 2021 CERN.
+ * SPDX-License-Identifier: MIT
+ */
 const core = require('@actions/core');
 const wait = require('./wait');
 
